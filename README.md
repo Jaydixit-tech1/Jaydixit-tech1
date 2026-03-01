@@ -8,4 +8,4 @@
 - 🛠 Skills: Python, Java, SQL, HTML, CSS,  
 - 📊 Built projects in Web Development, Dashboards, and Machine Learning  
 
-📌 Goal: Become a professional Software Developer
+📌 Goal: Become a  Software Developer
